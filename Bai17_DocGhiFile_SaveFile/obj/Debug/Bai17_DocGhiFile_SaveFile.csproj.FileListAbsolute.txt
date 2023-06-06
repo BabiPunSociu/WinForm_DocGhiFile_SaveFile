@@ -1,0 +1,22 @@
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai17_DocGhiFile_SaveFile\Bai17_DocGhiFile_SaveFile\bin\Debug\Bai17_DocGhiFile_SaveFile.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai17_DocGhiFile_SaveFile\Bai17_DocGhiFile_SaveFile\bin\Debug\Bai17_DocGhiFile_SaveFile.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai17_DocGhiFile_SaveFile\Bai17_DocGhiFile_SaveFile\bin\Debug\Bai17_DocGhiFile_SaveFile.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai17_DocGhiFile_SaveFile\Bai17_DocGhiFile_SaveFile\obj\Debug\Bai17_DocGhiFile_SaveFile.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai17_DocGhiFile_SaveFile\Bai17_DocGhiFile_SaveFile\obj\Debug\Bai17_DocGhiFile_SaveFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai17_DocGhiFile_SaveFile\Bai17_DocGhiFile_SaveFile\obj\Debug\Bai17_DocGhiFile_SaveFile.Form1.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai17_DocGhiFile_SaveFile\Bai17_DocGhiFile_SaveFile\obj\Debug\Bai17_DocGhiFile_SaveFile.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai17_DocGhiFile_SaveFile\Bai17_DocGhiFile_SaveFile\obj\Debug\Bai17_DocGhiFile_SaveFile.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai17_DocGhiFile_SaveFile\Bai17_DocGhiFile_SaveFile\obj\Debug\Bai17_DocGhiFile_SaveFile.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai17_DocGhiFile_SaveFile\Bai17_DocGhiFile_SaveFile\obj\Debug\Bai17_DocGhiFile_SaveFile.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai17_DocGhiFile_SaveFile\Bai17_DocGhiFile_SaveFile\obj\Debug\Bai17_DocGhiFile_SaveFile.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_DocGhiFile_SaveFile\Bai17_DocGhiFile_SaveFile\bin\Debug\Bai17_DocGhiFile_SaveFile.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_DocGhiFile_SaveFile\Bai17_DocGhiFile_SaveFile\bin\Debug\Bai17_DocGhiFile_SaveFile.exe
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_DocGhiFile_SaveFile\Bai17_DocGhiFile_SaveFile\bin\Debug\Bai17_DocGhiFile_SaveFile.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_DocGhiFile_SaveFile\Bai17_DocGhiFile_SaveFile\obj\Debug\Bai17_DocGhiFile_SaveFile.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_DocGhiFile_SaveFile\Bai17_DocGhiFile_SaveFile\obj\Debug\Bai17_DocGhiFile_SaveFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_DocGhiFile_SaveFile\Bai17_DocGhiFile_SaveFile\obj\Debug\Bai17_DocGhiFile_SaveFile.Form1.resources
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_DocGhiFile_SaveFile\Bai17_DocGhiFile_SaveFile\obj\Debug\Bai17_DocGhiFile_SaveFile.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_DocGhiFile_SaveFile\Bai17_DocGhiFile_SaveFile\obj\Debug\Bai17_DocGhiFile_SaveFile.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_DocGhiFile_SaveFile\Bai17_DocGhiFile_SaveFile\obj\Debug\Bai17_DocGhiFile_SaveFile.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_DocGhiFile_SaveFile\Bai17_DocGhiFile_SaveFile\obj\Debug\Bai17_DocGhiFile_SaveFile.exe
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_DocGhiFile_SaveFile\Bai17_DocGhiFile_SaveFile\obj\Debug\Bai17_DocGhiFile_SaveFile.pdb
